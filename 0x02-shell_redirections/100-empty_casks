@@ -1,0 +1,5 @@
+#!/bin/sh
+
+find . -type d  -empty
+find . -type f  -empty
+

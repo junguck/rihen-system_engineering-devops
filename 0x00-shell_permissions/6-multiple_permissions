@@ -1,0 +1,6 @@
+#!/bin/sh
+
+
+chmod ug+x hello
+chmod o+r hello
+

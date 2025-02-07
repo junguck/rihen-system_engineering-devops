@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd /tmp/
+cd my_first_directory
+rm rihen
+

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+chgrp -R staff .
+chown -R vincent .
+
+

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo -e "$((128+TRUEKNOWLEDGE)) \n"
+

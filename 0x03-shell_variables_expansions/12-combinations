@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo -e {a..o}{a..z}"\n"  {p..z}{a..z}"\n"

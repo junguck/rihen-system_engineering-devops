@@ -1,0 +1,4 @@
+#!/bin/sh
+
+ls | awk '{print $0"/,"}' | paste -sd '' -
+
